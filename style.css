@@ -1,0 +1,41 @@
+/**
+ * Default CSS
+ */
+
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 6rem;
+}
+h1 {
+    font-size: 6rem;
+}
+header {
+    font-size: 2rem;
+}
+form,
+p.small {
+    font-size: 2rem;
+}
+form input[type="text"],
+form input[type="email"],
+form select,
+form textarea,
+form button {
+    background-color: transparent;
+    border: 1px solid black;
+    font-size: 1.5rem;
+    padding: 0.5rem;
+    width: 300px;
+}
+form textarea {
+    height: 80px;
+}
+form button:hover {
+    background-color: black;
+    color: lightblue;
+}
+footer {
+    font-size: 2rem;
+}
