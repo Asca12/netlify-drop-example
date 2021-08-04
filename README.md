@@ -16,7 +16,7 @@ Simple two page site, with favicon, simple styles, headers and redirects, and a 
 └── style.css
 ```
 
-Download, edit, then visit [Netlify Drop](http://netlify.com/drop) to deploy. Simple!
+Download, edit, then visit [Netlify Drop](http://netlify.com/drop) (see also [Netlify Tutorial – Drag and drop deploys on Netlify](https://youtu.be/etZ9HSUoTPU)) to deploy. Simple! 
 
 ## Other Options
 
