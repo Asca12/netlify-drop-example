@@ -2,7 +2,7 @@
 
 This is a basic repository one can use to drag and drop to [Netlify](https://netlify.com).
 
-See it in action [https://netlify-drop-example.netlify.app](https://netlify-drop-example.netlify.app)
+See it in action [https://keen-gates-a5fb9c.netlify.app](https://keen-gates-a5fb9c.netlify.app)
 
 Simple two page site, with favicon, simple styles, headers and redirects, and a contact form.
 
