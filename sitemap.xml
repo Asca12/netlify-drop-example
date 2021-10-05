@@ -6,6 +6,11 @@
 		<lastmod>2021-08-12</lastmod>
 	</url>
 	<url>
+		<loc>https://www.netlify-drop-example.netlify.app/404.html</loc>
+		<priority>0.50</priority>
+		<lastmod>2021-10-05</lastmod>
+	</url>
+	<url>
 		<loc>https://netlify-drop-example.netlify.app/contact.html</loc>
 		<priority>0.50</priority>
 		<lastmod>2021-08-12</lastmod>
